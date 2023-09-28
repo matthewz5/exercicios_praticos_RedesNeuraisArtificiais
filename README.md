@@ -1,1 +1,1 @@
-# exercicios_praticos_RedesNeuraisArtificiais
+Repositório com a resolução dos Exercícios Práticos do livro "Redes neurais artificiais para engenharia e ciências aplicadas: curso prático" dos autores Ivan Nunes da Silva, Danilo Hernane Spatti e Rogério Andrade Flauzino, publicado pela editora Artliber, São Paulo, 2010.
